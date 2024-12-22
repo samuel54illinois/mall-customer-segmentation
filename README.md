@@ -10,7 +10,7 @@ I chose this project to deepen my understanding of customer segmentation and clu
 - Applied K-means clustering with the Elbow Method to determine the optimal number of clusters.
 - Provided actionable business insights for each customer segment.
 
-![Elbow Method](Elbow Method for Optimal Clusters.png)
+![Elbow Method](images/elbow_method.png)
 
 ## Tools Used
 - Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
@@ -44,7 +44,7 @@ Based on the clustering results, here are actionable strategies that businesses 
    - Strategy: Highlight the quality and value of products through educational marketing.
    - Goal: Encourage cautious spenders to purchase by building trust and showcasing product benefits.
 
-![Cluster Scatterplot](Annual Income vs Spending Score.png)
+![Cluster Scatterplot](images/annual_income_vs_spending_score.png.png)
 
 ## What I Learned
 - The importance of normalizing data before applying K-means clustering.
