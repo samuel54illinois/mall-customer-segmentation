@@ -62,7 +62,7 @@ Based on the clustering results, here are actionable strategies that businesses 
    git clone https://github.com/samuel54illinois/mall-customer-segmentation
 2. Navigate to the project repository:
    ```bash
-   cd mall-customer-segmentation
+   cd ./mall-customer-segmentation
 3. Install Python and Jupyter Notebook: Ensure that Python (version 3.7 or above) and Jupyter Notebook are installed on your machine. If not, you can install them by following these steps:
    ```bash
    pip install notebook
